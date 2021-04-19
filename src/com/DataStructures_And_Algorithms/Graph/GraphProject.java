@@ -127,7 +127,7 @@ public class GraphProject {
 
 
         g.findDFSpath("LR");
-        g.findDFSpath("HY");
+//        g.findDFSpath("HY");
 
 //        g.findBFSpath("LR");
 //        g.findBFSpath("HY");
